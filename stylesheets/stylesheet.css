@@ -76,11 +76,13 @@ a {
 }
 
 h1 span { 
-    background-color: black; 
+    background-color: black;
+    border: 1px solid #606c71; 
 }
 
 h2 span { 
-    background-color: black; 
+    background-color: black;
+    border: 1px solid #606c71; 
 }
 	
 @media screen and (min-width: 64em) {
